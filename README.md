@@ -3,4 +3,4 @@
   
 mio client lite
 
-to vhakan : kimse kusura bakmasin
+to vhakan : lokum harici kimse kusura bakmasin
